@@ -1,0 +1,55 @@
+[
+	{
+		"title": "Продолжай быть такой же красивой и модной!",
+		"photos": [
+			"/imageArr1/photo_1.jpg",
+			"/imageArr1/photo_2.jpg",
+			"/imageArr1/photo_3.jpg",
+			"/imageArr1/photo_4.jpg",
+			"/imageArr1/photo_5.jpg",
+			"/imageArr1/photo_6.jpg",
+			"/imageArr1/photo_7.jpg"
+		]
+	},
+	{
+		"title": "Побольше отдыхай и чувствуй момент!",
+		"photos": [
+			"/imageArr2/photo_1.jpg",
+			"/imageArr2/photo_2.jpg",
+			"/imageArr2/photo_3.jpg",
+			"/imageArr2/photo_4.jpg",
+			"/imageArr2/photo_5.jpg",
+			"/imageArr2/photo_6.jpg"
+		]
+	},
+	{
+		"title": "Проводи больше времени с близкими!",
+		"photos": [
+			"/imageArr3/photo_1.jpg",
+			"/imageArr3/photo_2.jpg",
+			"/imageArr3/photo_3.jpg",
+			"/imageArr3/photo_4.jpg",
+			"/imageArr3/photo_5.jpg",
+			"/imageArr3/photo_6.jpg"
+		]
+	},
+	{
+		"title": "Смейся и будь всегда на веселе!",
+		"photos": [
+			"/imageArr4/photo_1.jpg",
+			"/imageArr4/photo_2.jpg",
+			"/imageArr4/photo_3.jpg",
+			"/imageArr4/photo_4.jpg"
+		]
+	},
+	{
+		"title": "Мы тебя ЛЮБИМ!!!",
+		"photos": [
+			"/imageArr5/photo_1.jpg",
+			"/imageArr5/photo_2.jpg",
+			"/imageArr5/photo_3.jpg",
+			"/imageArr5/photo_4.jpg",
+			"/imageArr5/photo_5.jpg"
+		]
+	}
+]
