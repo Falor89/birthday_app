@@ -11,7 +11,7 @@ function App() {
 	const [data, setData] = useState([])
 
 	useEffect(() => {
-		fetch('/data.json')
+		fetch('/birthday_app/data.json')
 			.then(res => res.json())
 			.then(setData)
 			.catch(err => console.log(err))
@@ -28,12 +28,16 @@ function App() {
 				<img
 					style={isOpenModal ? { display: 'block' } : { display: 'none' }}
 					className={styles.imgBackground}
-					src='/popupBackground_1.jpg'
+					src='/birthday_app/popupBackground_1.jpg'
 					alt='/'
 					onClick={() => setIsOpenModal(false)}
 				/>
 				<h1 className={styles.title}>C ДНЕМ РОЖДЕНИЯ!!!</h1>
-				<img className={styles.imgFace} src='/popupPhoto.jpg' alt='photo' />
+				<img
+					className={styles.imgFace}
+					src='/birthday_app/popupPhoto.jpg'
+					alt='photo'
+				/>
 			</div>
 			<main
 				style={isOpenModal ? { display: 'none' } : { display: 'flex' }}
